@@ -10,7 +10,7 @@ My ultimate goal is to leverage my skills and experience to develop cutting-edge
 
 <b>Skills</b>:
 - Programming Languages: Python, Java, JavaScript, C++, Swift, RStudio
-- Databases: MySQL, PostgreSQL, SQLAlchemy, MongoDB, Google Cloud Storage
+- Databases: MySQL, PostgreSQL, SQLAlchemy, MongoDB, Google Cloud Storage, Amazon Redshift
 
 <b>Relevant courses</b>: Object-Oriented Programming, Data Structures & Algorithms, Fundamentals of AI, Statistical Machine Learning, Deep Learning, Discrete Math, Linear Algebra, Multivariable Calculus, Probability, Statistics
 
